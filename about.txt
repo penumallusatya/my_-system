@@ -1,0 +1,3 @@
+name=satya narayana
+course=data science
+github is th planform that about uplonding flies and projest
